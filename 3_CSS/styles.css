@@ -8,3 +8,37 @@ body{
 h3{
     color: green;
 }
+
+p{
+    color: blueviolet;
+}
+/* classes */
+
+.paragraph{
+
+    background-color: iceblue;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+
+/* IDs */
+
+#exclusive-title{
+    background-color: blue;
+    color: white;
+}
+
+/* ordem das regras */
+
+h2{
+    border-bottom: 2px solid red;
+}
+
+.titulo{
+    border-bottom: 2px solid blue;
+}
+
+#algum-texto{
+    border-bottom: 4px solid green;
+}
